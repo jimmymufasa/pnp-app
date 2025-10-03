@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "pnp-app",
+    "name": "pnp",
     "slug": "pnp-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "pnpapp",
+    "scheme": "pnp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
